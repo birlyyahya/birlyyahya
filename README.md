@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="good-times.svg" width="400px">
+		<img src="blackhole2.gif" width="90%">
 	<br>
 </div>
 
